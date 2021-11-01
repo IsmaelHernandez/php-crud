@@ -11,5 +11,7 @@
 <!-- variables -->
 <?php
     $dato1 = 23;
-    echo $dato1;
+    $dato2 = 1996;
+    echo "prueba isma" . $dato1 . $dato2;
+
 ?>
